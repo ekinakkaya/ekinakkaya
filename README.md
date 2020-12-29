@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ekinakkaya/ekinakkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi 👋
+
+Hi, I'm **Ekin**. I'm currently studying **Computer Engineering** at Başkent University.
+I love developing and desining projects. I especially love the grey space between two, where *creativity* and *tranquility* merges.
+
+I’m currently learning **web development** to be able to create the projects that I want to create.
+
+## 📫 Contact Me
+
+Instagram(https://www.instagram.com/ekinnakkaya/) | ✉️Email(mailto:midamnuvas@gmail.com)
