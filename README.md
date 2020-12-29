@@ -21,4 +21,4 @@ I’m currently learning **web development** to be able to create the projects t
 
 ## 📫 Contact Me
 
-Instagram(https://www.instagram.com/ekinnakkaya/) | ✉️Email(mailto:midamnuvas@gmail.com)
+[Instagram](https://www.instagram.com/ekinnakkaya/) | [✉️Email](mailto:midamnuvas@gmail.com)
