@@ -12,13 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi 👋
+# Hi 👋
 
 Hi, I'm **Ekin**. I'm currently studying **Computer Engineering** at Başkent University.
 I love developing and desining projects. I especially love the grey space between two, where *creativity* and *tranquility* merges.
 
-I’m currently learning **web development** to be able to create the projects that I want to create.
+## What is this?
 
-## 📫 Contact Me
+This is the place i do stuff. Whole lotta stuff. Take a look if you want.
+
+## Who is this?
+
+Some guy.
+
+## Why is this?
+
+Why not?
+
+# 📫 Contact Me
 
 [Instagram](https://www.instagram.com/ekinnakkaya/) | [✉️Email](mailto:midamnuvas@gmail.com)
