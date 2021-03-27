@@ -27,7 +27,7 @@ Some guy.
 
 ## Why is this?
 
-¯\\_(ツ)_/¯
+¯\\\_(ツ)\_/¯
 
 # 📫 Contact Me
 
