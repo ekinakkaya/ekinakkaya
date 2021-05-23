@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 # Hi 👋
 
 Hi, I'm **Ekin**. I'm currently studying **Computer Engineering** at Başkent University.
-I love developing and desining projects. I especially love the grey space between two, where *creativity* and *tranquility* merges.
+<!--I love developing and desining projects. I especially love the grey space between two, where *creativity* and *tranquility* merges.-->
 
 ## What is this?
 
-This is the place i do stuff. Whole lotta stuff. Take a look if you want.
+This is the place i do stuff.
 
 ## Who is this?
 
