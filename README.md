@@ -1,34 +1,28 @@
-<!--
-**ekinakkaya/ekinakkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi 👋
 
 Hi, I'm **Ekin**. I'm currently studying **Computer Engineering** at Başkent University.
-<!--I love developing and desining projects. I especially love the grey space between two, where *creativity* and *tranquility* merges.-->
 
-## What is this?
 
-This is the place i do stuff.
+### What do I do?
 
-## Who is this?
+I am a newbie programmer, so I usually do coding. But I also like to play with development boards and embedded systems. Honestly, I am interested in anything and everything that includes any sort of computing. One might say, that I am a computer-er ..?
 
-Some guy.
 
-## Why is this?
+### What do I think about life?
 
-¯\\\_(ツ)\_/¯
+Temporary. And thinking too much makes you crave for power. Power on the things about your life, on your loved ones' lives, etc. I think the best you can do is seize the day. Even seeking balance pushed me further from life itself.
 
-# 📫 Contact Me
+
+### What do i think about music?
+
+That it feeds one's soul.
+
+
+### What genre do i listen to?
+
+Yes.
+
+
+## 📫 Contact Me
 
 [Instagram](https://www.instagram.com/ekinnakkaya/) | [✉️Email](mailto:midamnuvas@gmail.com)
