@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img align="center" alt="ekinakkaya" src="https://readme-typing-svg.herokuapp.com/?lines=hi,+i'm+Ekin&center=true&size=30" />
   </a>
-  <p align="center">i'm a CEng student at Başkent University</p>
+  <p align="center">i'm a Computer Engineering student at Başkent University</p>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ekinakkaya&show_icons=true&theme=synthwave" alt="ekinakkaya" />
